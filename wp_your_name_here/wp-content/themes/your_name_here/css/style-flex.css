@@ -1,0 +1,42 @@
+.outer-flex-div {
+    display: flex;
+}
+
+.section-about {
+    display: flex;
+    flex-direction: column;
+}
+.three-pain-img-about {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.contact-flex-div {
+    display: flex;
+    flex-direction: row;
+}
+.section-contact {
+    display: flex;
+    flex-direction: column;
+}
+.form-contact {
+    display: flex;
+    flex-direction: column;
+}
+.contact-cards {
+    display: flex;
+    flex-direction: row;
+}
+.blog-flex-div {
+    display: flex;
+    flex-direction: row;
+}
+.section-blog {
+    display: flex;
+    flex-direction: column;
+}
+
+.blog-page-row {
+    display: flex ;
+    flex-direction: row;   
+}

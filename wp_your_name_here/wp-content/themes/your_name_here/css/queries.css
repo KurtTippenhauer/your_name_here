@@ -1,0 +1,545 @@
+/* 4K : from 1921px to 2560px )*/
+@media only screen and ( max-width: 2560px ) {
+/*----------------------------- portfolio page */
+    .header-title {
+        font-size: 36px;
+    }
+    .nav-menu li {
+        font-size: 24px;
+    }
+    .site-header {
+        padding-left: 37%;
+    }
+    .section-portfolio ul {
+        margin-left: 70%;
+    }
+    .section-portfolio ul li {
+        width: 1000px; 
+    }
+    
+/*----------------------------- about page */
+    .img-about {
+        height: 700px;
+    }
+    .text-about {
+        font-size: 24px;
+    }
+    
+/*----------------------------- contact page */
+    .contact-flex-div {
+        margin-left: 37%;
+    }
+    
+/*----------------------------- blog page */
+    .blog-flex-div {
+        margin-left: 37%;
+    }
+    .section-blog {
+        width: 60%;
+    }
+    .blog-page-row p {
+        font-size: 22px;
+    }
+    .blog-flex-div {
+        margin-left: 26%;
+    }
+    .the-blog-post h3 {
+        font-size: 24px;
+    }
+    .the-blog-post img {
+        width: 40%;
+        height: 250px;
+    }
+}
+/* from 1701px to 1920px )*/
+@media only screen and ( max-width: 1920px ) {
+    
+    .section-portfolio ul {
+        margin-left: 40%;
+    }
+}
+/* from 1441px to 1700px )*/
+@media only screen and ( max-width: 1700px ) {
+    
+    .section-portfolio ul {
+        margin-left: 30%;
+    }
+}
+/* 2K : from 1367px to 1440px */
+@media only screen and ( max-width: 1440px ) {
+/*----------------------------- portfolio page */
+    .site-header {
+        padding-left: 30%;
+    }    
+    .section-portfolio ul {
+        margin-left: 3em;
+    }
+    .section-portfolio ul li {
+        width: 295%; 
+    }
+    
+/*----------------------------- about page */
+    .header-title {
+        font-size: 32px;
+    }
+    .nav-menu li {
+        font-size: 16px;
+    }
+    .img-about {
+        height: 500px;
+    }
+    .text-about {
+        font-size: 16px;
+    }
+    
+/*----------------------------- contact page */
+    .contact-flex-div {
+        margin-left: 25%;
+    }
+    
+/*----------------------------- blog page */
+    .blog-flex-div {
+        margin-left: 25%;
+    }
+    .section-blog {
+        width: 68%;
+    }
+    .blog-page-row p {
+        font-size: 16px;
+    }
+    .the-blog-post h3 {
+        font-size: 1.17em;
+    }
+    .the-blog-post img {
+        width: 40%;
+        height: 170px;
+    }
+}
+
+/* ipad pro landscape : from 1281px to 1366px */
+@media only screen and ( max-width: 1366px ) {   
+/*----------------------------- portfolio page */ 
+    .section-portfolio ul {
+        margin-left: 1.75em;
+    }
+    
+}
+
+/* chromebook pixel
+   galaxy tab 10
+   landscape : from 1201px to 1280px */
+@media only screen and ( max-width: 1280px ) {
+/*----------------------------- portfolio page */
+    .section-portfolio ul li {
+        width: 270%;
+        height: 700px;
+    }
+    
+/*----------------------------- blog page */
+    .the-blog-post img {
+        width: 46%;
+        height: 200px;
+    }
+    .the-blog-post p {
+        margin-bottom: 9px;
+    }
+    
+}
+
+/* laptops : from 1025px to 1200px */
+@media only screen and ( max-width: 1200px ) { 
+/*----------------------------- portfolio page */   
+    .section-portfolio ul li {
+        width: 252.5%;
+    }
+    
+/*----------------------------- about page */
+    .img-about {
+        height: 400px;
+    }
+    
+/*----------------------------- blog page */
+    .section-blog {
+        width: 78%;
+    }
+}
+
+/* laptop 
+   large tablet
+   ipad pro portrait
+   tablet landscape : from 961px to 1024px */
+@media only screen and ( max-width: 1024px ) {  
+/*----------------------------- portfolio page */  
+    .section-portfolio ul li {
+        width: 210%;
+        height: 600px;
+    }
+    
+/*----------------------------- about page */
+    .img-about {
+        height: 350px;
+    }
+    
+/*----------------------------- blog page */
+    .blog-flex-div {
+        margin-left: 20%;
+    }
+    
+}
+
+/* nexus 7 landscape : from 851px to 960px */
+@media only screen and ( max-width: 960px ) {  
+/*----------------------------- portfolio page */  
+    .section-portfolio ul li {
+        width: 195%;
+        height: 500px;        
+    }
+    
+/*----------------------------- blog page */
+    .section-blog {
+        width: 87%;
+    }
+    .blog-flex-div {
+        margin-left: 13%;
+    }
+    
+}
+
+/* galaxy note 5
+   lg g5
+   One Plus 
+   landscape : from 851px to 853px */
+@media only screen and ( max-width: 853px ) {  
+/*----------------------------- portfolio page */  
+    .section-portfolio ul li {
+        width: 171%;
+        height: 450px;        
+    }
+    
+/*----------------------------- about page */
+    .img-about {
+        height: 300px;
+    }
+    .section-about {
+        padding: 0 15%;
+    }
+    
+/*----------------------------- blog page */
+    .the-blog-post img {
+        width: 50%;
+        height: 215px;
+    }
+    .the-blog-post p {
+        margin-bottom: 0px;
+    }
+    
+}
+
+/* chromebook pixel portrait : from 813px to 850px */
+@media only screen and ( max-width: 850px ) {
+    
+}
+
+/* iphone x landscape : from 769px to 812x */
+@media only screen and ( max-width: 812px ) {  
+/*----------------------------- portfolio page */  
+    .section-portfolio ul li {
+        width: 160%;
+        height: 350px;        
+    }
+    
+}
+
+/* tablet : from 741px to 768px */
+@media only screen and ( max-width: 768px ) {  
+/*----------------------------- portfolio page */  
+    .section-portfolio ul li {
+        width: 150%;
+        height: 350px;        
+    }
+    
+/*----------------------------- about page */
+    .img-about {
+        height: 250px;
+    }
+    
+/*----------------------------- blog page */
+    .blog-flex-div {
+        margin-left: 10%;
+    }
+    .section-blog {
+        width: 90%;
+    }
+    
+}
+
+/* galaxy s8/s8+
+   landscape : from 737px to 740px */
+@media only screen and ( max-width: 740px ) {
+/*----------------------------- portfolio page */    
+    .section-portfolio ul li {
+        width: 145%;        
+    }
+    
+}
+
+/* iphone 6/7/8 plus 
+   landscape : from 733px to 736px */
+@media only screen and ( max-width: 736px ) {
+/*----------------------------- portfolio page */
+    
+}
+
+/* nexus 5x/6/6p 
+   google pixel/xl/2/2 xl 
+   landscape : from 668px to 732px */
+@media only screen and ( max-width: 732px ) {  
+/*----------------------------- portfolio page */  
+    .section-portfolio ul li {
+        width: 141%;        
+    }
+    
+/*----------------------------- blog page */
+    .blog-flex-div {
+        margin-left: 8%;
+    }
+    .section-blog {
+        width: 92%;
+    }
+    
+}
+
+/* iphone 6/6s/7/8 
+   landscape : from 641px to 667px */
+@media only screen and ( max-width: 667px ) {  
+/*----------------------------- portfolio page */  
+    .section-portfolio ul li {
+        width: 126%;        
+    }
+    
+/*----------------------------- about page */
+    
+/*----------------------------- blog page */
+    .blog-flex-div {
+        margin-left: 5%;
+    }
+    .section-blog {
+        width: 95%;
+    }
+}
+
+/* galaxy s5/s7/s7 edge
+   landscape : from 601px to 640px */
+@media only screen and ( max-width: 640px ) {  
+/*----------------------------- portfolio page */  
+    .section-portfolio ul li {
+        width: 121%;        
+    }
+    
+/*----------------------------- blog page */
+    .blog-flex-div {
+        margin-left: 5%;
+    }
+    .section-blog {
+        width: 95%;
+    }
+    .the-blog-post img {
+        margin-right: 2%;
+    }
+    
+}
+
+/* nexus 7 portrait : from 573px to 600px */
+@media only screen and ( max-width: 600px ) {  
+    .site-header {
+        padding-left: 25%;
+    }  
+/*----------------------------- portfolio page */  
+    .section-portfolio ul li {
+        width: 127%;  
+    }    
+    .section-portfolio ul li h3 {
+        font-size: 82px;
+    }
+    
+/*----------------------------- blog page */
+    .blog-page-row {
+        flex-direction: column;
+    }
+    .blog-flex-div {
+        margin-left: 20%;
+    }
+    .section-blog {
+        width: 75%;
+    }
+    .the-blog-post img {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    .the-blog-post p {
+        margin-bottom: 18px;
+    }
+    
+}
+
+/* iphone 5/5s/5c/se ipod touch 
+   landscape : from 481px to 568px */
+@media only screen and ( max-width: 568px ) {   
+/*----------------------------- portfolio page */ 
+    .section-portfolio ul li {
+        width: 119%;   
+        height: 300px;
+    }
+    
+/*----------------------------- about page */
+    .img-about {
+        height: 180px;
+    }
+    
+}
+
+/* galaxy note 5
+   lg g5
+   One Plus 
+   portrait : from 426px to 480px */
+@media only screen and ( max-width: 480px ) { 
+/*----------------------------- portfolio page */
+    .site-header {
+        padding-left: 14%;
+    }
+    .header-title {
+        font-size: 1.75em;
+    }
+    .section-portfolio ul li {
+        width: 124%; 
+        height: 250px;
+    }  
+    .section-portfolio ul li h3 {
+        font-size: 64px;
+    }
+    
+/*----------------------------- about page */
+    .img-about {
+        height: 150px;
+    }
+    .text-about {
+        margin: 0 0;
+    }
+    
+/*----------------------------- contact page */
+    .contact-flex-div {
+        margin-left: 14%;
+    }
+    
+}
+
+/* mobile l  : from 415px to 425px */
+@media only screen and ( max-width: 425px ) { 
+    .site-header {
+        padding-left: 9%;
+    }
+    .header-title {
+        font-size: 1.5em;
+    }
+    .section-portfolio ul {
+        margin-left: 0;
+    }
+    .section-portfolio ul li {
+        width: 121.5%; 
+        height: 240px;
+    } 
+    
+/*----------------------------- about page */
+    .img-about {
+        height: 120px;
+    }
+    
+/*----------------------------- contact page */
+    .contact-flex-div {
+        margin-left: 10%;
+    }
+    
+/*----------------------------- blog page */
+    .blog-flex-div {
+        margin-left: 10%;
+    }
+    .section-blog {
+        width: 88%;
+    }
+}
+
+/* iphone 6/7/8 plus
+   portrait : from 412px to 414px */ 
+@media only screen and ( max-width: 414px ) {  
+    .site-header {
+        padding-left: 10.3%;
+    } 
+    .section-portfolio ul li h3 {
+        font-size: 62px;
+    }
+}
+/* nexus 5x/6/6p 
+   google pixel/xl/2/2xl 
+   portrait : from 376px to 411px */
+@media only screen and ( max-width: 411px ) {
+    .section-portfolio ul li {
+        width: 120%; 
+    }  
+}
+
+/* mobile m 
+   iphone 6/6s/7/8/x 
+   portrait : from 361px to 375px */
+@media only screen and ( max-width: 375px ) {
+    .header-title {
+        font-size: 1.2em;
+    }  
+    .section-portfolio ul li h3 {
+        font-size: 54px;
+    }
+    .section-portfolio ul li {
+        width: 119%; 
+        height: 200px;
+    }
+    
+}
+
+/* galaxy s5/s7/s7 edge/s8/s8+
+   portrait : from 321px to 360px */
+@media only screen and ( max-width: 360px ) {
+    .section-portfolio ul li {
+        width: 116%;
+    }
+    
+}
+
+/* mobile s
+   iphone 5/5s/5c/se ipod touch
+   portrait : from 0px to 320px */
+@media only screen and ( max-width: 320px ) {
+    .site-header {
+        padding-left: 12.3%;
+    }
+    .section-portfolio ul li h3 {
+        font-size: 44px;
+    }
+    .section-portfolio ul li {
+        width: 122%;
+        height: 180px;
+    }
+    
+}
+
+/*
+
+@media only screen and ( max-width: px ) {
+    
+}
+
+@media only screen and ( max-width: px ) {
+    
+}
+
+@media only screen and ( max-width: px ) {
+    
+}*/
